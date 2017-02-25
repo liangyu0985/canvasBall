@@ -1,0 +1,7 @@
+#myCanvas{
+    background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(darkblue), to(dodgerblue));/*¹È¸è*/
+}
+#myCanvas p{
+    text-align: center;
+    font-size: 4rem;
+}
